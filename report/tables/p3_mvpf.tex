@@ -1,0 +1,37 @@
+\begin{table}[htbp]
+\centering
+\caption{Calibrated top-bracket $|\mathrm{MVPF}|$ across Problem Set 1 Pareto parameters ($\hat{\alpha}$) and bunching elasticities ($\hat{\epsilon}$)}
+\label{tab:p3_mvpf}
+\small
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Pareto tail specification (PS1) & $\hat{\epsilon}$ & $\hat{\alpha}$ & $\hat{\epsilon}\hat{\alpha}$ & Offset ($\tau_0$) & $|\mathrm{MVPF}(\tau_0)|$ & $|\mathrm{MVPF}(\tau_1)|$ & $|\mathrm{MVPF}(\bar{\tau})|$ & $\overline{|\mathrm{MVPF}|}_{\mathrm{exact}}$ \\
+\midrule
+PS1 Vermeulen MLE ($w_{\min}=380\text{M}$, $\hat{\alpha}=1.859$) & 0.0245 & 1.859 & 0.0455 & 3.03\% & 1.0313 & 1.0251 & 1.0280 & 1.0281 \\
+PS1 SII Top Bracket ($>310\text{ UTA}$, $\hat{\alpha}=2.085$) & 0.0245 & 2.085 & 0.0510 & 3.40\% & 1.0352 & 1.0282 & 1.0316 & 1.0316 \\
+PS1 Gabaix--Ibragimov Reg ($w_{\min}=380\text{M}$, $\hat{\alpha}=2.135$) & 0.0245 & 2.135 & 0.0522 & 3.48\% & 1.0361 & 1.0289 & 1.0323 & 1.0324 \\
+PS1 Vermeulen MLE ($w_{\min}=P99$, $\hat{\alpha}=2.531$) & 0.0245 & 2.531 & 0.0619 & 4.13\% & 1.0430 & 1.0345 & 1.0386 & 1.0386 \\
+\midrule
+PS1 Vermeulen MLE ($w_{\min}=380\text{M}$, $\hat{\alpha}=1.859$) & 0.0155 & 1.859 & 0.0288 & 1.92\% & 1.0196 & 1.0158 & 1.0176 & 1.0176 \\
+PS1 SII Top Bracket ($>310\text{ UTA}$, $\hat{\alpha}=2.085$) & 0.0155 & 2.085 & 0.0324 & 2.16\% & 1.0220 & 1.0177 & 1.0198 & 1.0198 \\
+PS1 Gabaix--Ibragimov Reg ($w_{\min}=380\text{M}$, $\hat{\alpha}=2.135$) & 0.0155 & 2.135 & 0.0331 & 2.21\% & 1.0226 & 1.0182 & 1.0203 & 1.0203 \\
+PS1 Vermeulen MLE ($w_{\min}=P99$, $\hat{\alpha}=2.531$) & 0.0155 & 2.531 & 0.0393 & 2.62\% & 1.0269 & 1.0216 & 1.0241 & 1.0242 \\
+\midrule
+PS1 Vermeulen MLE ($w_{\min}=380\text{M}$, $\hat{\alpha}=1.859$) & 0.0260 & 1.859 & 0.0483 & 3.22\% & 1.0333 & 1.0267 & 1.0298 & 1.0299 \\
+PS1 SII Top Bracket ($>310\text{ UTA}$, $\hat{\alpha}=2.085$) & 0.0260 & 2.085 & 0.0542 & 3.61\% & 1.0375 & 1.0300 & 1.0336 & 1.0336 \\
+PS1 Gabaix--Ibragimov Reg ($w_{\min}=380\text{M}$, $\hat{\alpha}=2.135$) & 0.0260 & 2.135 & 0.0555 & 3.70\% & 1.0384 & 1.0308 & 1.0344 & 1.0345 \\
+PS1 Vermeulen MLE ($w_{\min}=P99$, $\hat{\alpha}=2.531$) & 0.0260 & 2.531 & 0.0657 & 4.38\% & 1.0458 & 1.0367 & 1.0411 & 1.0411 \\
+\midrule
+PS1 Vermeulen MLE ($w_{\min}=380\text{M}$, $\hat{\alpha}=1.859$) & 0.2570 & 1.859 & 0.4778 & 31.85\% & 1.4674 & 1.3464 & 1.4019 & 1.4035 \\
+PS1 SII Top Bracket ($>310\text{ UTA}$, $\hat{\alpha}=2.085$) & 0.2570 & 2.085 & 0.5358 & 35.72\% & 1.5558 & 1.4055 & 1.4739 & 1.4761 \\
+PS1 Gabaix--Ibragimov Reg ($w_{\min}=380\text{M}$, $\hat{\alpha}=2.135$) & 0.2570 & 2.135 & 0.5487 & 36.58\% & 1.5768 & 1.4193 & 1.4908 & 1.4932 \\
+PS1 Vermeulen MLE ($w_{\min}=P99$, $\hat{\alpha}=2.531$) & 0.2570 & 2.531 & 0.6505 & 43.36\% & 1.7657 & 1.5391 & 1.6401 & 1.6442 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\begin{minipage}{\textwidth}
+\vspace{4pt}
+\footnotesize\textit{Note:} Local MVPFs evaluated at $\tau_0 = 0.40$, $\tau_1 = 0.35$, and midpoint $\bar{\tau} = (\tau_0+\tau_1)/2 = 0.375$, alongside the exact analytical integral $\overline{|\mathrm{MVPF}|}_{\mathrm{exact}}$ over $[0.35, 0.40]$. ``Offset ($\tau_0$)'' denotes the behavioral revenue share $-\Delta R^B / \Delta R^M = \frac{\tau_0}{1-\tau_0}\hat{\epsilon}\hat{\alpha}$ at $\tau_0 = 0.40$. The four groups of rows correspond to: (1) 2023 top-kink bunching at the 150 UTA empirical mode ($\hat{\epsilon}=0.0245$), (2) 2023 150 UTA statutory benchmark ($\hat{\epsilon}=0.0155$), (3) pooled 2005--2023 120 UTA bunching ($\hat{\epsilon}=0.0260$), and (4) the synthetic first-kink upper-bound benchmark ($\hat{\epsilon}=0.2570$).
+\end{minipage}
+\end{table}

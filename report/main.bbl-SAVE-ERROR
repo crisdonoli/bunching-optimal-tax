@@ -1,0 +1,655 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{blomquist2021bunching}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bf717bc7861b7bb525a25ca0683c66b0}{%
+           family={Blomquist},
+           familyi={B\bibinitperiod},
+           given={Sören},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fdbaebe436e69131defd0c3607040af}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Anil},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72bbfd8f766886aabd37e88b903e32d8}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Che-Yuan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=058d74ae5e89fbd5a49ebdbe97b4c922}{%
+           family={Newey},
+           familyi={N\bibinitperiod},
+           given={Whitney\bibnamedelima K.},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ce74d7cd8da09b8931a0bd9e772739f}
+      \strng{fullhash}{6c0630d7c00390227f8cdd7270a3034e}
+      \strng{fullhashraw}{6c0630d7c00390227f8cdd7270a3034e}
+      \strng{bibnamehash}{6c0630d7c00390227f8cdd7270a3034e}
+      \strng{authorbibnamehash}{6c0630d7c00390227f8cdd7270a3034e}
+      \strng{authornamehash}{3ce74d7cd8da09b8931a0bd9e772739f}
+      \strng{authorfullhash}{6c0630d7c00390227f8cdd7270a3034e}
+      \strng{authorfullhashraw}{6c0630d7c00390227f8cdd7270a3034e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{8}
+      \field{title}{On Bunching and Identification of the Taxable Income Elasticity}
+      \field{volume}{129}
+      \field{year}{2021}
+      \field{pages}{2320\bibrangedash 2343}
+      \range{pages}{24}
+    \endentry
+    \entry{bohme2022diagnostico}{report}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f5d76237334986e5e1fad74f6cc1765e}{%
+           family={Bohme},
+           familyi={B\bibinitperiod},
+           given={Nicolás},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26988620d78743e89b94b473a10d9879}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Raimundo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a2ac3ffb599cb141b2e6baaf4126e27}{%
+           family={Valenzuela},
+           familyi={V\bibinitperiod},
+           given={Patricio},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=186e2546232812dffcea3fa04f427350}{%
+           family={Vergara},
+           familyi={V\bibinitperiod},
+           given={Damián},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Ministerio de Hacienda de Chile}%
+      }
+      \strng{namehash}{67fa25c8266998c918d75e47f58be4e4}
+      \strng{fullhash}{43e2164c6c167cc5bb4b83bccdbe7715}
+      \strng{fullhashraw}{43e2164c6c167cc5bb4b83bccdbe7715}
+      \strng{bibnamehash}{43e2164c6c167cc5bb4b83bccdbe7715}
+      \strng{authorbibnamehash}{43e2164c6c167cc5bb4b83bccdbe7715}
+      \strng{authornamehash}{67fa25c8266998c918d75e47f58be4e4}
+      \strng{authorfullhash}{43e2164c6c167cc5bb4b83bccdbe7715}
+      \strng{authorfullhashraw}{43e2164c6c167cc5bb4b83bccdbe7715}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diagnóstico distributivo de ingreso y patrimonio, y análisis de la propuesta de reforma tributaria en materia de renta y riqueza}
+      \field{type}{techreport}
+      \field{year}{2022}
+    \endentry
+    \entry{chetty2011salience}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a853740afbc544905334cf607b3cd51}{%
+           family={Chetty},
+           familyi={C\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a853740afbc544905334cf607b3cd51}
+      \strng{fullhash}{7a853740afbc544905334cf607b3cd51}
+      \strng{fullhashraw}{7a853740afbc544905334cf607b3cd51}
+      \strng{bibnamehash}{7a853740afbc544905334cf607b3cd51}
+      \strng{authorbibnamehash}{7a853740afbc544905334cf607b3cd51}
+      \strng{authornamehash}{7a853740afbc544905334cf607b3cd51}
+      \strng{authorfullhash}{7a853740afbc544905334cf607b3cd51}
+      \strng{authorfullhashraw}{7a853740afbc544905334cf607b3cd51}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Testimony for the United States Senate Committee of Finance hearing on “How Do Complexity, Uncertainty, and Other Factors Impact Responses to Tax Incentives}
+      \field{title}{Salience and Taxation: Evidence and Policy Implications}
+      \field{year}{2011}
+    \endentry
+    \entry{chetty2011adjustment}{article}{}{}
+      \name{author}{4}{ul=1}{%
+        {{un=0,uniquepart=base,hash=7a853740afbc544905334cf607b3cd51}{%
+           family={Chetty},
+           familyi={C\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb2eb6a3bea93fb3238fb8e1de2cf006}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={John\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5a15a5ef87fdc6d57506a4703eb8768}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Tore},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=769146deebcb2866318668f69d644c48}{%
+           family={Pistaferri},
+           familyi={P\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{fullhash}{0da39b067bdf5298b38590de640a4ac7}
+      \strng{fullhashraw}{0da39b067bdf5298b38590de640a4ac7}
+      \strng{bibnamehash}{0da39b067bdf5298b38590de640a4ac7}
+      \strng{authorbibnamehash}{0da39b067bdf5298b38590de640a4ac7}
+      \strng{authornamehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{authorfullhash}{0da39b067bdf5298b38590de640a4ac7}
+      \strng{authorfullhashraw}{0da39b067bdf5298b38590de640a4ac7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{2}
+      \field{title}{Adjustment Costs, Firm Responses, and Micro vs. Macro Labor Supply Elasticities: Evidence from Danish Tax Records}
+      \field{volume}{126}
+      \field{year}{2011}
+      \field{pages}{749\bibrangedash 804}
+      \range{pages}{56}
+      \verb{doi}
+      \verb 10.1093/qje/qjr013
+      \endverb
+    \endentry
+    \entry{durkan2019neural}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=08439cf1d9cfff317a25afa9fd3255ac}{%
+           family={Durkan},
+           familyi={D\bibinitperiod},
+           given={Conor},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98ff4693d66d28b3d46026e325e7d15d}{%
+           family={Bekasov},
+           familyi={B\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=237c383069f29d1d1ffe672359e89d38}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Iain},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eab39f18cad46e4abd05bb4d62b340cd}{%
+           family={Papamakarios},
+           familyi={P\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4be1a98b18d2d2bf154c23218ea59b7}
+      \strng{fullhash}{03ae148b2160762bb2d3453fd6555a99}
+      \strng{fullhashraw}{03ae148b2160762bb2d3453fd6555a99}
+      \strng{bibnamehash}{03ae148b2160762bb2d3453fd6555a99}
+      \strng{authorbibnamehash}{03ae148b2160762bb2d3453fd6555a99}
+      \strng{authornamehash}{d4be1a98b18d2d2bf154c23218ea59b7}
+      \strng{authorfullhash}{03ae148b2160762bb2d3453fd6555a99}
+      \strng{authorfullhashraw}{03ae148b2160762bb2d3453fd6555a99}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems (NeurIPS)}
+      \field{title}{Neural Spline Flows}
+      \field{volume}{32}
+      \field{year}{2019}
+      \field{pages}{7511\bibrangedash 7522}
+      \range{pages}{12}
+    \endentry
+    \entry{fairfield2016top}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2670a961650270beeb76fbe630b95fb3}{%
+           family={Fairfield},
+           familyi={F\bibinitperiod},
+           given={Tasha},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d80a65fdf85a5f3be6383e588943163f}{%
+           family={Jorratt},
+           familyi={J\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{fullhash}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{fullhashraw}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{bibnamehash}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{authorbibnamehash}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{authornamehash}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{authorfullhash}{05d322b04c40d09b29f6f1e1178a4397}
+      \strng{authorfullhashraw}{05d322b04c40d09b29f6f1e1178a4397}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Income and Wealth}
+      \field{number}{S1}
+      \field{title}{Top Income Shares, Business Profits, and Effective Tax Rates in Contemporary {Chile}}
+      \field{volume}{62}
+      \field{year}{2016}
+      \field{pages}{S120\bibrangedash S144}
+      \range{pages}{-1}
+    \endentry
+    \entry{flores2020top}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d306351ceed61638ceffadef4485a48f}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67903e1bea5f89d9902869f87e884bff}{%
+           family={Sanhueza},
+           familyi={S\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a266a8a9b9620cc341c70e5a6c7fb65}{%
+           family={Atria},
+           familyi={A\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44f7cf2d78d425f76bd434df581c56c5}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20be70a19902ecf8e50af8883f11f7d5}
+      \strng{fullhash}{98f3debfb15d1583d53a2929c4bf30e9}
+      \strng{fullhashraw}{98f3debfb15d1583d53a2929c4bf30e9}
+      \strng{bibnamehash}{98f3debfb15d1583d53a2929c4bf30e9}
+      \strng{authorbibnamehash}{98f3debfb15d1583d53a2929c4bf30e9}
+      \strng{authornamehash}{20be70a19902ecf8e50af8883f11f7d5}
+      \strng{authorfullhash}{98f3debfb15d1583d53a2929c4bf30e9}
+      \strng{authorfullhashraw}{98f3debfb15d1583d53a2929c4bf30e9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Income and Wealth}
+      \field{number}{4}
+      \field{title}{Top Incomes in {Chile}: A Historical Perspective on Income Inequality, 1964--2017}
+      \field{volume}{66}
+      \field{year}{2020}
+      \field{pages}{850\bibrangedash 874}
+      \range{pages}{25}
+    \endentry
+    \entry{goff2026partial}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=598fe6fefcbe2b48802f566e6a1d9199}{%
+           family={Goff},
+           familyi={G\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{fullhash}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{fullhashraw}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{bibnamehash}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{authorbibnamehash}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{authornamehash}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{authorfullhash}{598fe6fefcbe2b48802f566e6a1d9199}
+      \strng{authorfullhashraw}{598fe6fefcbe2b48802f566e6a1d9199}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{econ.EM}
+      \field{eprinttype}{arXiv}
+      \field{title}{Partial Identification from Bunching at Kinks and Notches}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2205.10310
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2205.10310
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2205.10310
+      \endverb
+    \endentry
+    \entry{gutierrezNoExemption}{unpublished}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aa05f90956f0a7bb29dc9b1e97805547}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={Patricio},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ae6592bfd476ab8f8ba5c784d40fb2e}{%
+           family={Parada},
+           familyi={P\bibinitperiod},
+           given={Joaquín},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=065a093624702aa7f4ad1fcfeceb7b91}{%
+           family={Valverde},
+           familyi={V\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91b134bec56fcf3ebc086a1c76da0a45}
+      \strng{fullhash}{ad0d4066e11941ee9dd6c0b9627f1907}
+      \strng{fullhashraw}{ad0d4066e11941ee9dd6c0b9627f1907}
+      \strng{bibnamehash}{ad0d4066e11941ee9dd6c0b9627f1907}
+      \strng{authorbibnamehash}{ad0d4066e11941ee9dd6c0b9627f1907}
+      \strng{authornamehash}{91b134bec56fcf3ebc086a1c76da0a45}
+      \strng{authorfullhash}{ad0d4066e11941ee9dd6c0b9627f1907}
+      \strng{authorfullhashraw}{ad0d4066e11941ee9dd6c0b9627f1907}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unpublished manuscript}
+      \field{title}{No Exemption Threshold and More {VAT} Are Not Enough to Increase Tax Revenues in Chile}
+      \field{year}{2026}
+    \endentry
+    \entry{papamakarios2021normalizing}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=eab39f18cad46e4abd05bb4d62b340cd}{%
+           family={Papamakarios},
+           familyi={P\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32d37e1a4205d86bb4fd9e9e07b9607d}{%
+           family={Nalisnick},
+           familyi={N\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec9d0847975b9ff58f6b8ba2661c82fc}{%
+           family={Rezende},
+           familyi={R\bibinitperiod},
+           given={Danilo\bibnamedelima Jimenez},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b520f2e46ec8803dd4c66bf1d6059482}{%
+           family={Mohamed},
+           familyi={M\bibinitperiod},
+           given={Shakir},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55c0a67ecb602e5a3063393ffee9c7fa}{%
+           family={Lakshminarayanan},
+           familyi={L\bibinitperiod},
+           given={Balaji},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e84aca695e331b97133b0060995ac61}
+      \strng{fullhash}{9c4a09a4bad5f39431df6a5bfc3b2b66}
+      \strng{fullhashraw}{9c4a09a4bad5f39431df6a5bfc3b2b66}
+      \strng{bibnamehash}{9c4a09a4bad5f39431df6a5bfc3b2b66}
+      \strng{authorbibnamehash}{9c4a09a4bad5f39431df6a5bfc3b2b66}
+      \strng{authornamehash}{4e84aca695e331b97133b0060995ac61}
+      \strng{authorfullhash}{9c4a09a4bad5f39431df6a5bfc3b2b66}
+      \strng{authorfullhashraw}{9c4a09a4bad5f39431df6a5bfc3b2b66}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{57}
+      \field{title}{Normalizing Flows for Probabilistic Modeling and Inference}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 64}
+      \range{pages}{64}
+    \endentry
+    \entry{rezende2015variational}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ec9d0847975b9ff58f6b8ba2661c82fc}{%
+           family={Rezende},
+           familyi={R\bibinitperiod},
+           given={Danilo\bibnamedelima Jimenez},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b520f2e46ec8803dd4c66bf1d6059482}{%
+           family={Mohamed},
+           familyi={M\bibinitperiod},
+           given={Shakir},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{fullhash}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{fullhashraw}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{bibnamehash}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{authorbibnamehash}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{authornamehash}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{authorfullhash}{11ce8187ceb54b9d71569c11612050f1}
+      \strng{authorfullhashraw}{11ce8187ceb54b9d71569c11612050f1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 32nd International Conference on Machine Learning (ICML)}
+      \field{title}{Variational Inference with Normalizing Flows}
+      \field{volume}{37}
+      \field{year}{2015}
+      \field{pages}{1530\bibrangedash 1538}
+      \range{pages}{9}
+    \endentry
+    \entry{saez2010taxpayers}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f040f5aac2c176810fed8b44b9c401a4}{%
+           family={Saez},
+           familyi={S\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{fullhash}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{fullhashraw}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{bibnamehash}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{authorbibnamehash}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{authornamehash}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{authorfullhash}{f040f5aac2c176810fed8b44b9c401a4}
+      \strng{authorfullhashraw}{f040f5aac2c176810fed8b44b9c401a4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Journal: Economic Policy}
+      \field{number}{3}
+      \field{title}{Do Taxpayers Bunch at Kink Points?}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{180\bibrangedash 212}
+      \range{pages}{33}
+    \endentry
+    \entry{saez2012elasticity}{article}{}{}
+      \name{author}{3}{ul=1}{%
+        {{un=0,uniquepart=base,hash=f040f5aac2c176810fed8b44b9c401a4}{%
+           family={Saez},
+           familyi={S\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58ceb1e79ab6ce8aa41d6cfc2aef11f5}{%
+           family={Slemrod},
+           familyi={S\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=086e7312525d72f55832ca751a141d58}{%
+           family={Giertz},
+           familyi={G\bibinitperiod},
+           given={Seth\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4986242d5243053a5ad712347d112860}
+      \strng{fullhash}{45c99aa69f2278eb90a0dc3ccf7bf1e8}
+      \strng{fullhashraw}{45c99aa69f2278eb90a0dc3ccf7bf1e8}
+      \strng{bibnamehash}{45c99aa69f2278eb90a0dc3ccf7bf1e8}
+      \strng{authorbibnamehash}{45c99aa69f2278eb90a0dc3ccf7bf1e8}
+      \strng{authornamehash}{4986242d5243053a5ad712347d112860}
+      \strng{authorfullhash}{45c99aa69f2278eb90a0dc3ccf7bf1e8}
+      \strng{authorfullhashraw}{45c99aa69f2278eb90a0dc3ccf7bf1e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Literature}
+      \field{number}{1}
+      \field{title}{The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review}
+      \field{volume}{50}
+      \field{year}{2012}
+      \field{pages}{3\bibrangedash 50}
+      \range{pages}{48}
+    \endentry
+    \entry{trippe2018conditional}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cb0c02f02b51e0664b454842f0fc8a12}{%
+           family={Trippe},
+           familyi={T\bibinitperiod},
+           given={Brian\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50bb1da31125197be3166f9bee1ed0ef}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{fullhash}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{fullhashraw}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{bibnamehash}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{authorbibnamehash}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{authornamehash}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{authorfullhash}{9fe0b7ff714317e440b3ceb364d64746}
+      \strng{authorfullhashraw}{9fe0b7ff714317e440b3ceb364d64746}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1802.04908}
+      \field{title}{Conditional Density Estimation with Bayesian Normalising Flows}
+      \field{year}{2018}
+    \endentry
+    \entry{winkler2019learning}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ba81b56eedb73baf8d2bcd6b758dffd0}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3992d9b130c5891a53b5f0bb2a9b1992}{%
+           family={Worrall},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3217062971cd751f410c7479cd9c280a}{%
+           family={Hoogeboom},
+           familyi={H\bibinitperiod},
+           given={Emiel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9ce864eda6d319f1a35bcab18bdf4f5b}
+      \strng{fullhash}{1c708e129c077faf75583150e58c0def}
+      \strng{fullhashraw}{1c708e129c077faf75583150e58c0def}
+      \strng{bibnamehash}{1c708e129c077faf75583150e58c0def}
+      \strng{authorbibnamehash}{1c708e129c077faf75583150e58c0def}
+      \strng{authornamehash}{9ce864eda6d319f1a35bcab18bdf4f5b}
+      \strng{authorfullhash}{1c708e129c077faf75583150e58c0def}
+      \strng{authorfullhashraw}{1c708e129c077faf75583150e58c0def}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1912.00042}
+      \field{title}{Learning Likelihoods with Conditional Normalizing Flows}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,34 @@
+\usepackage[a4paper, inner=2.5cm, outer=3.5cm]{geometry}
+\usepackage{fontspec}
+\usepackage[english, bidi=basic, provide=*]{babel}
+\babelprovide[import, onchar=ids fonts]{english}
+% \babelfont{rm}{Noto Sans}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{float}
+\graphicspath{{../output/figures/}{../output/figures/p1/}}
+\usepackage{booktabs}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\floatname{algorithm}{Algorithm}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
+\usepackage{hyperref}
+\usepackage{adjustbox}
+
+% Gestión de bibliografía con BibLaTeX
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    sorting=nyt,
+    maxcitenames=2,
+    maxbibnames=99,
+    urldate=iso
+]{biblatex}
+
+\usepackage{marginnote} 
+\setlength{\marginparwidth}{3cm}
+\renewcommand*{\marginfont}{\scriptsize} 
