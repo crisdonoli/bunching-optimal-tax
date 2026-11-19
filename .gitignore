@@ -1,6 +1,4 @@
-data/
-docs/
-
+docs
 # LaTeX compilation artifacts
 *.aux
 *.bbl
@@ -13,3 +11,4 @@ docs/
 *.run.xml
 *.synctex.gz
 *.toc
+report-donoso-2026.pdf
