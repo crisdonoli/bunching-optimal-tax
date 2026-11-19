@@ -10,16 +10,39 @@
 \begin{document}
 
 \begin{center}
-    {\large \textbf{Public Finance (Advanced)}}\\[3pt]
-    {\Large \textbf{Problem Set 2}}\\[3pt]
-    {\normalsize Second Semester 2026}
+    {\large \textbf{Public Finance (Advanced) --- ENECO894}}\\[4pt]
+    {\Large \textbf{Problem Set 2: Bunching, Optimization Frictions, and the Marginal Value of Public Funds in Chile}}\\[10pt]
+    {\normalsize
+        Cristobal Donoso-Oliva\textsuperscript{1},
+        Pablo Guti\'errez Cubillos\textsuperscript{2},
+        Juan Duarte A.\textsuperscript{3},
+        Marcelo Montes M.\textsuperscript{3},
+        Javiera Parada R.\textsuperscript{3}
+    }\\[6pt]
+    {\small \textit{Facultad de Econom\'ia y Negocios, Universidad de Chile}}\\[8pt]
+    \begin{minipage}{0.95\textwidth}
+        \raggedright
+        \footnotesize
+        \textsuperscript{1}\,PhD Student in Economics, Universidad de Chile \quad
+        \textsuperscript{2}\,Professor, Universidad de Chile \quad
+        \textsuperscript{3}\,Teaching Assistants, Universidad de Chile
+    \end{minipage}
 \end{center}
+\vspace{-0.4em}
+\begin{flushright}
+    \small Second Semester 2026 \;\textbar\; \today
+\end{flushright}
+\vspace{-0.6em}
+\hrule
+\vspace{1.2em}
 
-\vspace{0.5em}
+\begin{abstract}
+\noindent This report presents the complete solution to Problem Set~2 of Advanced Public Finance (ENECO894), examining behavioral responses to nonlinear income taxation and their welfare implications in Chile. Section~1 replicates the first-kink bunching estimation on administrative \textit{Servicio de Impuestos Internos} (SII) wage-earner records using a fourth-degree polynomial counterfactual with iterative right-tail reweighting, assesses sensitivity across bin widths, fitting windows, and 2005--2023 pooled samples, and discusses the economic interpretation of the estimated elasticity of taxable income ($\hat{\epsilon}_E = 0.2799$) for lowering the exemption threshold. Section~2 formally studies the identifying assumptions of bunching methods by deriving the frictionless uniform-ability benchmark, characterizing attenuation bias under contract-renegotiation frictions ($\phi > 0$), and proposing two nonparametric counterfactual alternatives (a shifted-kink reference distribution and shape-constrained bounded-curvature bounds) that motivate reporting identified intervals rather than point estimates. Section~3 derives the mechanical effect, Pareto-tail behavioral offset, and Marginal Value of Public Funds ($|\mathrm{MVPF}|$) for a proposed $40\% \to 35\%$ top marginal rate reduction, calibrates the economy using Problem Set~1 Pareto tail parameters and top-bracket bunching estimates on synthetic count data, and concludes with a policy brief.
+\vspace{20mm}\\
+\noindent \textit{All replication code, estimation routines, and figure-generation pipelines are publicly available at \url{https://github.com/crisdonoli/bunching-optimal-tax.git/}. Footnotes of the form \texttt{code: <path>:LXX} link key analytical and empirical results directly to the corresponding repository files and lines.}
+\end{abstract}
 
-% REMEMBER sent to: javello@fen.uchile.cl; mmontesm@fen.uchile.cl and jparadar@fen.uchile.cl.
-
-\vspace{1em}
+\newpage
 \input{sections/01}
 
 \newpage
