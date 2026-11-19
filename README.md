@@ -75,4 +75,3 @@ Reproducible codebase and LaTeX report for **Advanced Public Finance — Problem
 ## License
 
 This project is free and open-source software licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software and accompanying materials, provided that proper attribution is given.
-# bunching-optimal-tax
