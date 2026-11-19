@@ -1,5 +1,13 @@
 # Bunching, Optimization Frictions, and the Marginal Value of Public Funds in Chile
 
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-LuaLaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Reproducible codebase and LaTeX report for **Advanced Public Finance — Problem Set 2** (*Facultad de Economía y Negocios, Universidad de Chile*).
 
 - **Full Report (PDF):** [report/main.pdf](report/main.pdf)
@@ -63,4 +71,8 @@ Reproducible codebase and LaTeX report for **Advanced Public Finance — Problem
    cd report
    latexmk -lualatex main.tex
    ```
+
+## License
+
+This project is free and open-source software licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software and accompanying materials, provided that proper attribution is given.
 # bunching-optimal-tax
